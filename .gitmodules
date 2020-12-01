@@ -1,0 +1,3 @@
+[submodule "exercices/component-architecture"] 
+  path = exercices/component-architecture
+  url = git@github.com:LuisFernando1407/component-architecture.git
