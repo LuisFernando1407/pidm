@@ -1,2 +1,2 @@
-# pidm
-This repository approach Interface Project of Mobile Devices (UFC)
+# Interface Project of Mobile Devices
+Technology used: React Native
