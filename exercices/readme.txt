@@ -1,1 +1,0 @@
-This project uses git submodules
