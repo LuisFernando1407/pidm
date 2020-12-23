@@ -4,3 +4,6 @@
 [submodule "exercises/votes-by-city"]
   path = exercises/votes-by-city
   url = git@github.com:LuisFernando1407/votes-by-city.git
+[submodule "exercises/imc"]
+  path = exercises/imc
+  url = git@github.com:LuisFernando1407/imc.git
