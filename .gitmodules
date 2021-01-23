@@ -7,3 +7,6 @@
 [submodule "exercises/imc"]
   path = exercises/imc
   url = git@github.com:LuisFernando1407/imc.git
+[submodule "exercises/navigation"]
+  path = exercises/navigation
+  url = git@github.com:LuisFernando1407/navigation.git
