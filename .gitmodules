@@ -10,3 +10,6 @@
 [submodule "exercises/navigation"]
   path = exercises/navigation
   url = git@github.com:LuisFernando1407/navigation.git
+[submodule "exercises/albums"]
+  path = exercises/albums
+  url = git@github.com:LuisFernando1407/albums.git
