@@ -13,3 +13,6 @@
 [submodule "exercises/albums"]
   path = exercises/albums
   url = git@github.com:LuisFernando1407/albums.git
+[submodule "exercises/ffirestore"]
+  path = exercises/ffirestore
+  url = git@github.com:LuisFernando1407/ffirestore.git
